@@ -16,9 +16,13 @@ Deploying machine learning models requires a robust infrastructure that ensures 
 
 ## Usage
 
-### Prerequisites
+### software and Tools Requirement
 
-- [Docker](https://www.docker.com/) installed on your system.
+1. [Github Account](https://github.com)
+2. [Heroku Account](https://heroku.com)
+3. [VSCode IDE](https://code.visualstudio.com/)
+4. [Git CLI](https://git-scm.com/book/en/v2)
+5. [Docker](https://www.docker.com/) installed on your system.
 
 ### Steps to Deploy
 
