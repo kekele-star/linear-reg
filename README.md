@@ -22,7 +22,7 @@ Deploying machine learning models requires a robust infrastructure that ensures 
 2. [Heroku Account](https://heroku.com)
 3. [VSCode IDE](https://code.visualstudio.com/)
 4. [Git CLI](https://git-scm.com/book/en/v2)
-5. [Docker](https://www.docker.com/) installed on your system.
+5. [Docker](https://www.docker.com/) 
 
 ### Steps to Deploy
 
@@ -57,7 +57,5 @@ Deploying machine learning models requires a robust infrastructure that ensures 
 
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to open an issue or create a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
