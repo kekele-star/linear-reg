@@ -1,5 +1,3 @@
-# Deploying-ML-with-Docker
-
 # Deploying ML with Docker
 
 This repository contains a comprehensive guide and codebase for deploying machine learning models using Docker.
